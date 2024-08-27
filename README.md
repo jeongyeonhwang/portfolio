@@ -26,14 +26,14 @@ notion과 github를 활용하여 효과적인 버전 관리와 협업 프로세�
 > 진로 상담 챗봇 _(KT 에이블스쿨 - 31조 빅프로젝트)_
 >
 > - 개발 기간 : 2024.06.17 - 2024.07.26
-> - 핵심 역할 : Back-End, API 설계, DB 구축 및 연동
+> - 핵심 역할 : (Back-End) API 설계, DB 구축 및 연동
 > - 주요 기능 : 진로 상담 챗봇을 통한 추천 직업군 레포트 생성
 >
 >> Baek-End
 >> - Language : python3
 >> - Skill : FAST API, PostgreSQL
 >>
->> [프로젝트 상세 설명]()
+>> [프로젝트 상세 설명](https://github.com/jeongyeonhwang/-AI-)
 
 <br />
 
@@ -42,8 +42,8 @@ notion과 github를 활용하여 효과적인 버전 관리와 협업 프로세�
 
 > 챗봇 _(KT 에이블스쿨 - 36조 팀프로젝트)_
 >
-> - 개발 기간 : 2024.06.
-> - 핵심 역할 : Back-End, 생성형 AI를 사용해 챗봇 구축, 데이터베이스 구축 및 ERD 설계
+> - 개발 기간 : 2024.06.03 - 2024.06.13
+> - 핵심 역할 : (Back-End) 생성형 AI를 사용해 챗봇 구축, 데이터베이스 구축 및 ERD 설계
 > - Language : python3
 > - Skill : Django
 >
@@ -51,13 +51,13 @@ notion과 github를 활용하여 효과적인 버전 관리와 협업 프로세�
 
 <br />
 
-## 3. 👍 농인을 위한 수어 인식 시스템
-> 수어 인식 AI 앱 _(울산대학교 캡스톤 디자인 팀프로젝트)_
+## 3. 👍 지어 인식 AI 앱
+> 농인을 위한 지어 인식 AI _(울산대학교 캡스톤 디자인 팀프로젝트)_
 >
 > - 개발 기간 : 2021.09.01 - 2022.06.09
-> - 핵심 역할 : 팀장
+> - 핵심 역할 : 팀장 (Back-End) AI 모델링, 모델 구축
 > - 주요 기능 : 사용자의 수어(지화) 인식 후 텍스트 출력 및 단어 자동완성 기능
 > - Language : java, python3
-> - Skill : tflite, firebase
+> - Skill : TensorFlow Lite, Firebase
 >
 > [프로젝트 상세 설명](https://github.com/jeongyeonhwang/hands)
