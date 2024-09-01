@@ -45,7 +45,7 @@ notion과 github를 활용하여 효과적인 버전 관리와 협업 프로세�
 > - 개발 기간 : 2024.06.03 - 2024.06.13
 > - 핵심 역할 : (Back-End) 생성형 AI를 사용해 챗봇 구축, 데이터베이스 구축 및 ERD 설계
 > - Language : python3
-> - Skill : Django
+> - Skill : Django, gpt-3.5, sqlite
 >
 > [프로젝트 상세 설명](https://github.com/jeongyeonhwang/aivle_7th_mini_project)
 
