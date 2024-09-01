@@ -47,7 +47,7 @@ notion과 github를 활용하여 효과적인 버전 관리와 협업 프로세�
 > - Language : python3
 > - Skill : Django
 >
-> [프로젝트 상세 설명]()
+> [프로젝트 상세 설명](https://github.com/jeongyeonhwang/aivle_7th_mini_project)
 
 <br />
 
